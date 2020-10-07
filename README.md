@@ -3,6 +3,11 @@ Todo List is a basic todo list that allows a user to add items to a list in thei
 
 So, what's the point in this app? Simple! Sometimes technical interviewers want to see examples of your JavaScript skills, but you can't show them anything of production quality because of those pesky client NDAs (amirite???). This application allows the interviewer to see that you can write JavaScript that communicates with other elements in the DOM. 
 
+
+<img src="9819B9A4-DB53-45AE-AF86-B9FECD647CF7_1_105_c.jpeg" width=50%/>
+
+
+
 ## Installation
 You could clone the repo, click the download button, or just copy/paste the code into your code editor; it's only a few files. 
 
