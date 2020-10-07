@@ -1,5 +1,5 @@
 # TodoList
-TodoList is a basic todo list that allows a user to add items to a list in their browser. Do your entries persist after you've closed your browser? Of course not! What's the point in that? Simple! Sometimes technical interviewers want to see examples of your JavaScript skills, but you can't show them anything of production quality because of NDAs. This application allows the interviewer to see that you can write JavaScript that talks to elements in the DOM. 
+TodoList is a basic todo list that allows a user to add items to a list in their browser. Do your entries persist after you've closed your browser? Of course not! What's the point in that? Simple! Sometimes technical interviewers want to see examples of your JavaScript skills, but you can't show them anything of production quality because of NDAs. This application allows the interviewer to see that you can write JavaScript that communicates with other elements in the DOM. 
 
 ## Installation
 You could clone the repo, click the download button, or just copy/paste the code into your code editor; it's only a few files. 
