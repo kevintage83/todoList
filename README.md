@@ -1,7 +1,7 @@
 # TodoList
 Todo List is a basic todo list that allows a user to add items to a list in their browser. Do your entries persist after you've closed your browser? Of course not! But then again, does the internet really need another to do app? 
 
-So, what's the point in this app? Simple! Sometimes technical interviewers want to see examples of your JavaScript skills, but you can't show them anything of production quality because of NDAs. This application allows the interviewer to see that you can write JavaScript that communicates with other elements in the DOM. 
+So, what's the point in this app? Simple! Sometimes technical interviewers want to see examples of your JavaScript skills, but you can't show them anything of production quality because of those pesky client NDAs (amirite???). This application allows the interviewer to see that you can write JavaScript that communicates with other elements in the DOM. 
 
 ## Installation
 You could clone the repo, click the download button, or just copy/paste the code into your code editor; it's only a few files. 
